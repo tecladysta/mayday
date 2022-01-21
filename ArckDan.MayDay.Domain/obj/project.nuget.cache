@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0CoL923xK1NzHIOY7e6pApe6aw7T2T8iTaiWO4bhuYJ8ffs4G424+lzZ6z1FCY/hNvtnE8VAUNrFPchD/R20OA==",
+  "success": true,
+  "projectFilePath": "C:\\ArckDan\\Projetos\\MayDay\\v2\\ArckDan.MayDay\\ArckDan.MayDay.Domain\\ArckDan.MayDay.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
